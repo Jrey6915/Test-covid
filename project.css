@@ -1,0 +1,62 @@
+body {
+  background-color: rgba(66, 93, 151, 0.993);
+  color: white;
+}
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+table {
+  border: 2px solid black;
+  max-width: 20%;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Arial;
+  font-size: 20px;
+}
+.header {
+  height: 100vh;
+  background-image: url(covid19.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+}
+.table-container {
+  background-color: #011c40;
+  color: white;
+  padding: 1rem 0;
+}
+
+.table-container-2 {
+  background-color: #456b8c;
+}
+
+.table-container h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.table {
+  background-color: transparent;
+  margin: 0 auto;
+  max-width: 80rem;
+  border: none;
+}
+
+.table-data {
+  vertical-align: top;
+  padding: 4rem 2rem;
+  color: white;
+}
+
+.table-image {
+  width: 40vw;
+}
